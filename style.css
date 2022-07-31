@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+#app {
+    background-color: firebrick;
+}
+#myCarousel{
+    background-color: rgb(255, 0, 0);
+}
+#myCarousel img{ height: 300px;
+    margin-top: 35px;
+
+}
